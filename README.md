@@ -25,7 +25,7 @@
 ## 🏢 Experience
 
 **Full Stack Developer**  
-[Toha Metal Engineering Works](https://tohametal.com)  
+<a href="https://tohametal.com" target="_blank">Toha Metal Engineering Works</a>
 _July 2024 – Present_  
 
 - **Spearheaded** the end-to-end development and deployment of a custom, scalable ERP system using **Laravel** (backend) and **Next.js** (frontend)—delivered as a solo developer.
