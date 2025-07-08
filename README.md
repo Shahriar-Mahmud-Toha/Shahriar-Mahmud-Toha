@@ -139,53 +139,69 @@ _July 2024 – Present_
 ### 🚀 Confident & Experienced
 
 #### 🧩 Frameworks
+<p>
 <img src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js" alt="Next.js" style="margin-right: 6px;"/>
+</p>
 
 #### 🎨 UI & Styling
+<p>
 <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" style="margin-right: 6px;"/>
+</p>
 
 #### 📝 Languages
+<p>
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c" alt="C" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b" alt="C++" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp" alt="C#" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" alt="PHP" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" style="margin-right: 6px;"/>
+</p>
 
 #### 🗄️ Databases
+<p>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis" alt="Redis" style="margin-right: 6px;"/>
+</p>
 
 #### 🚢 Deployment & DevOps
+<p>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx" alt="Nginx" style="margin-right: 6px;"/>
+</p>
 
 #### 🛠️ Tools & Design
+<p>
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-draw.io-FF9900?style=flat-square&logo=diagrams-dot-net&logoColor=white" alt="draw.io" style="margin-right: 6px;"/>
+</p>
 
 ---
 
 ### 🧭 Basic Knowledge / Just Touched
 
 #### 🧩 Frameworks
+<p>
 <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet" alt="ASP.NET" style="margin-right: 6px;"/>
+</p>
 
 #### 📝 Languages
+<p>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python" style="margin-right: 6px;"/>
+</p>
 
 #### 🚢 Deployment & DevOps
+<p>
 <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" style="margin-right: 6px;"/>
-
-</br>
+</p>
 </br>
 
 
