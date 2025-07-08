@@ -57,6 +57,7 @@ _July 2024 – Present_
 <p>
   <img src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js" alt="Next.js" style="margin-right: 6px;"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="margin-right: 6px;"/>
@@ -87,6 +88,7 @@ _July 2024 – Present_
 #### 🛠️ Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js" style="margin-right: 6px;"/>
+  <img src="https://img.shields.io/badge/-JavaScript-FFD600?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/DaisyUI-FF69B4?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" style="margin-right: 6px;"/>
@@ -158,13 +160,13 @@ _July 2024 – Present_
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c" alt="C" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b" alt="C++" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp" alt="C#" style="margin-right: 6px;"/>
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" alt="PHP" style="margin-right: 6px;"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" style="margin-right: 6px;"/>
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" style="margin-right: 6px;"/>
+<img src="https://img.shields.io/badge/-JavaScript-FFD600?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 6px;"/>
 </p>
 
 #### 🗄️ Databases
 <p>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" style="margin-right: 6px;"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" style="margin-right: 6px;"/>
 </p>
 
@@ -195,8 +197,9 @@ _July 2024 – Present_
 
 #### 📝 Languages
 <p>
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" style="margin-right: 6px;"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python" style="margin-right: 6px;"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" style="margin-right: 6px;"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="margin-right: 6px;"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 6px;"/>
 </p>
 
 #### 🚢 Deployment & DevOps
