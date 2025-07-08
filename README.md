@@ -55,8 +55,8 @@ _July 2024 – Present_
 
 #### 🛠️ Tech Stack:
 <p>
-  <img src="https://img.shields.io/badge/Laravel-E4405F?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="margin-right: 6px;"/>
-  <img src="https://img.shields.io/badge/Next.js-grey?style=flat-square&logo=next.js" alt="Next.js" style="margin-right: 6px;"/>
+  <img src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="margin-right: 6px;"/>
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js" alt="Next.js" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="margin-right: 6px;"/>
@@ -138,10 +138,11 @@ _July 2024 – Present_
 
 ### 🚀 Confident & Experienced
 
-#### 🧩 Frameworks
+#### 🧩 Frameworks & Libraries
 <p>
 <img src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js" alt="Next.js" style="margin-right: 6px;"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" style="margin-right: 6px;"/>
 </p>
 
 #### 🎨 UI & Styling
@@ -164,14 +165,14 @@ _July 2024 – Present_
 #### 🗄️ Databases
 <p>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" style="margin-right: 6px;"/>
-<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis" alt="Redis" style="margin-right: 6px;"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" style="margin-right: 6px;"/>
 </p>
 
 #### 🚢 Deployment & DevOps
 <p>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" style="margin-right: 6px;"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker" style="margin-right: 6px;"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx" alt="Nginx" style="margin-right: 6px;"/>
 </p>
 
@@ -186,7 +187,7 @@ _July 2024 – Present_
 
 ### 🧭 Basic Knowledge / Just Touched
 
-#### 🧩 Frameworks
+#### 🧩 Frameworks & Libraries
 <p>
 <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" style="margin-right: 6px;"/>
 <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet" alt="ASP.NET" style="margin-right: 6px;"/>
