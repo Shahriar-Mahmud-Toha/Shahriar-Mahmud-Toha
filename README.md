@@ -228,14 +228,6 @@ _July 2024 – Present_
 
 ---
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahriar-Mahmud-Toha&show_icons=true&theme=radical" height="150"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahriar-Mahmud-Toha&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Mahmud-Toha&layout=compact&theme=radical" height="150"/>
-</p>
-
---- -->
-
 <details>
   <summary>📚 <b>More About My Journey</b></summary>
   <ul>
