@@ -1,9 +1,6 @@
 <h1 align="center">Md. Shahriar Mahmud</h1>
 <h3 align="center">Full Stack Developer | Laravel & Next.js Enthusiast</h3>
-<style>
-  .social-badges a:hover img { transform: scale(1.1); transition: 0.2s; }
-</style>
-<p align="center" class="social-badges">
+<p align="center">
   <a href="https://mdshahriar.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mdshahriar.me-24292e?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/shahriar-mahmud-toha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Shahriar%20Mahmud%20Toha-0057b7?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"></a>
   <a href="mailto:contact@mdshahriar.me"><img src="https://img.shields.io/badge/Email-contact@mdshahriar.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
