@@ -80,7 +80,7 @@ _July 2024 – Present_
 
 <br/>
 
-### [Users Data Playground](https://github.com/Shahriar-Mahmud-Toha/users-data-playground) &nbsp; <a href="https://users-data-playground.vercel.app/" target="_blank" title="Live Demo"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo of Users Data Playground" /></a>
+### [Users Data Playground](https://github.com/Shahriar-Mahmud-Toha/users-data-playground) &nbsp; <a href="https://data-playground.mdshahriar.me" target="_blank" title="Live Demo"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo of Users Data Playground" /></a>
 
 #### 🛠️ Tech Stack:
 <p>
